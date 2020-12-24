@@ -8,22 +8,26 @@ import com.esiea.android4A.domain.usecase.CreateUserUseCase
 import com.esiea.android4A.domain.usecase.GetUserUseCase
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class MainViewModel(
     private val createUserUseCase: CreateUserUseCase,
     private val getUserUseCase: GetUserUseCase
 ) : ViewModel(){
 
-    val counter : MutableLiveData<Int> = MutableLiveData()
+    val loginLiveData: MutableLiveData<LoginStatus> = MutableLiveData()
 
-    init{
-        counter.value = 0
-    }
-
-    fun onClickedIncrement() {
+    fun onClickedLogin(emailUser: String, password: String) {
         viewModelScope.launch(Dispatchers.IO) {
-            createUserUseCase.invoke(User("test"))
-            val user = getUserUseCase.invoke("test")
+            val user = getUserUseCase.invoke(emailUser)
+            val loginStatus = if(user != null){
+                LoginSuccess(user.email)
+            }else{
+                LoginError
+            }
+            withContext(Dispatchers.Main) {
+                loginLiveData.value = loginStatus
+            }
         }
     }
 }
