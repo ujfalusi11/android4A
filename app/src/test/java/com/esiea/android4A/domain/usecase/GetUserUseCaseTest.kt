@@ -1,4 +1,4 @@
-package com.esiea.android4A.domain.usecase
+/*package com.esiea.android4A.domain.usecase
 
 import com.esiea.android4A.data.repository.UserRepository
 import com.esiea.android4A.domain.entity.User
@@ -44,4 +44,4 @@ class GetUserUseCaseTest {
             assertEquals(result, expectedUser)
         }
     }
-}
+}*/

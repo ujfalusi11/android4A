@@ -1,5 +1,9 @@
 package com.esiea.android4A.domain.entity
 
 data class User (
-    val email: String
+    val name: String,
+    val email: String,
+    val password: String,
+    val gender: String,
+    val nationality: String
 )

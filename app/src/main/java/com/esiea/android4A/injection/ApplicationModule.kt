@@ -1,7 +1,7 @@
 package com.esiea.android4A.injection
 
 import org.koin.dsl.module
-import com.esiea.android4A.presentation.main.MainViewModel
+import com.esiea.android4A.presentation.login.LoginViewModel
 import android.content.Context
 import androidx.room.Room
 import com.esiea.android4A.data.local.AppDatabase
@@ -9,11 +9,12 @@ import com.esiea.android4A.data.local.DatabaseDao
 import com.esiea.android4A.data.repository.UserRepository
 import com.esiea.android4A.domain.usecase.CreateUserUseCase
 import com.esiea.android4A.domain.usecase.GetUserUseCase
+import com.esiea.android4A.presentation.register.RegisterViewModel
 import org.koin.android.ext.koin.androidContext
-import java.security.AccessControlContext
 
 val presentationModule = module {
-    factory { MainViewModel(get(), get()) }
+    factory { LoginViewModel(get()) }
+    factory { RegisterViewModel(get()) }
 }
 
 val domainModule = module {
