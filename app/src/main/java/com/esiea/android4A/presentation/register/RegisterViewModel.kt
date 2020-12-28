@@ -6,8 +6,8 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.esiea.android4A.R
-import com.esiea.android4A.data.remote.ErrorMessage
-import com.esiea.android4A.data.remote.UserTokenResponse
+//import com.esiea.android4A.data.remote.ErrorMessage
+//import com.esiea.android4A.data.remote.UserTokenResponse
 import com.esiea.android4A.domain.entity.User
 import com.esiea.android4A.domain.usecase.CreateUserUseCase
 import com.esiea.android4A.domain.usecase.GetUserUseCase
@@ -35,7 +35,9 @@ class RegisterViewModel(
         viewModelScope.launch {
 
             val registerStatus = if (name != "" && email != "" && password != "" && gender != "" && nationality != "") {
-                createUserUseCase.invoke(User(name,email, password,gender,nationality))
+                withContext(Dispatchers.IO) {
+                    createUserUseCase.invoke(User(name, email, password, gender, nationality))
+                }
                 RegisterSuccess
             } else {
                 RegisterError

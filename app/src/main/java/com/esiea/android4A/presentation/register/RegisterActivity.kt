@@ -5,8 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
 import com.esiea.android4A.R
-import com.esiea.android4A.presentation.Validator
-import com.esiea.android4A.presentation.register.RegisterViewModel
+import com.esiea.android4A.Validator
 import kotlinx.android.synthetic.main.activity_register.*
 import org.koin.android.ext.android.inject
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
@@ -33,7 +32,7 @@ class RegisterActivity : AppCompatActivity() {
                             dialog.dismiss()
                         }
                         .show()
-                    //finish()
+                    finish()
                 }
                 RegisterError -> {
                     MaterialAlertDialogBuilder(this)

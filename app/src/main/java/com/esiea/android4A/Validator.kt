@@ -1,7 +1,6 @@
-package com.esiea.android4A.presentation
+package com.esiea.android4A
 
 import android.util.Patterns
-import com.esiea.android4A.R
 import java.util.regex.Pattern
 
 
