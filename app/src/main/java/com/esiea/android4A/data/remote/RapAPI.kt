@@ -5,6 +5,6 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface RapAPI {
-    @get:GET("/summary")
+    @get:GET("rappers.json")
     val getRapResponse: Call<RestRapResponse>
 }

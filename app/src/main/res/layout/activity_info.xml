@@ -15,9 +15,9 @@
         android:layout_height="225dp"
         android:layout_alignParentTop="true"
         android:background="@drawable/img"
+        android:layout_marginTop="30dp"
         android:contentDescription="@string/rapperImg"
         android:src="@mipmap/ic_launcher"
-        app:layout_constraintBottom_toTopOf="@+id/rapperName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -28,23 +28,27 @@
         android:layout_height="wrap_content"
         android:textColor="#E6FFFFFF"
         android:textSize="25sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@id/realName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.26999998" />
+        app:layout_constraintVertical_bias="0.2" />
 
     <TextView
         android:id="@+id/realName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="#E6FFFFFF"
-        android:textSize="25sp"
+        android:textSize="12sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/rapperName"
-        app:layout_constraintVertical_bias="0.26999998" />
+        app:layout_constraintVertical_bias="0.1" />
 
     <TextView
         android:id="@+id/bio"
