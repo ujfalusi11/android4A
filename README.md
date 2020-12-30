@@ -7,8 +7,9 @@ afin de lire leur biographie à l'aide d'appels webservice à une API rest crée
 
 L'objectif du projet est d'afficher une liste à l'aide d'un Recyclerview et de voir le détail de chaque élément de la liste avec le language Kotlin.
 
-### L'application:
+### Méthodes:
 
+* Création API json
 * Langage Kotlin
 * Architecture:
   * MVVM
