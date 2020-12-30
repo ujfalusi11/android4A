@@ -7,6 +7,17 @@
     android:background="@drawable/gradient_background">
 
 
+    <ImageView
+        android:id="@+id/phone_icon"
+        android:layout_width="210dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        app:layout_constraintBottom_toTopOf="@+id/inputEmailEditText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/logo" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/inputEmailEditText"

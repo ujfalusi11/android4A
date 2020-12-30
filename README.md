@@ -25,7 +25,8 @@ L'objectif du projet est d'afficher une liste à l'aide d'un Recyclerview et de 
 
 ### Page de login
 * Page de login avec l'option de création de compte
-* renvoi d'erreurs en cas de non mauvaise saisie ou de champ laissé libre
+* Renvoi d'erreurs en cas de non mauvaise saisie ou de champ laissé libre
+* Erreurs sur la syntaxe de l'adresse email
 * Option de show/hide du mot de passe
 
 ![Alt text](/images/log1.png "Optional Title")
@@ -33,7 +34,8 @@ L'objectif du projet est d'afficher une liste à l'aide d'un Recyclerview et de 
 
 ### Page d'inscription
 * Inscription pour sauvegarder less informations de l'utilisateur dans la BDD
-* renvoi d'erreurs en cas de non mauvaise saisie ou de champ laissé libre
+* Renvoi d'erreurs en cas de non mauvaise saisie ou de champ laissé libre
+* Erreurs sur la syntaxe du mot de passe
 
 ![Alt text](/images/reg.png "Optional Title")
 
