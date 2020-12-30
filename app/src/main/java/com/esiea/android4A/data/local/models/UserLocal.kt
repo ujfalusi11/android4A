@@ -10,16 +10,15 @@ data class UserLocal(
     @ColumnInfo(name = "name") val name: String,
     @ColumnInfo(name = "email") val email: String,
     @ColumnInfo(name = "password") val password: String,
-    @ColumnInfo(name = "gender") val gender: String,
-    @ColumnInfo(name = "nationality") val nationality: String
+    @ColumnInfo(name = "gender") val gender: String
 ){
     @PrimaryKey(autoGenerate = true) var uid: Int? = null
 }
 
 fun User.toData(): UserLocal {
-    return UserLocal(name=name , email = email, password = password, gender= gender, nationality = nationality)
+    return UserLocal(name=name , email = email, password = password, gender= gender)
 }
 
 fun UserLocal.toEntity(): User {
-    return User(name=name , email = email,password = password, gender= gender, nationality = nationality)
+    return User(name=name , email = email,password = password, gender= gender)
 }

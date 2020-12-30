@@ -9,8 +9,8 @@ import com.esiea.android4A.data.local.DatabaseDao
 import com.esiea.android4A.data.repository.UserRepository
 import com.esiea.android4A.domain.usecase.CreateUserUseCase
 import com.esiea.android4A.domain.usecase.GetUserUseCase
-import com.esiea.android4A.presentation.countryinfo.InfoViewModel
-import com.esiea.android4A.presentation.countrylist.ListViewModel
+import com.esiea.android4A.presentation.rapperinfo.InfoViewModel
+import com.esiea.android4A.presentation.rapperlist.ListViewModel
 import com.esiea.android4A.presentation.register.RegisterViewModel
 import org.koin.android.ext.koin.androidContext
 

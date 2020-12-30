@@ -5,17 +5,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".presentation.countryinfo.InfoActivity"
+    android:background="@drawable/gradient_background"
+    tools:context=".presentation.rapperinfo.InfoActivity"
     >
 
 
-    <ImageView
+    <com.mikhaellopez.circularimageview.CircularImageView
         android:id="@+id/imageView"
         android:layout_width="200dp"
-        android:layout_height="225dp"
+        android:layout_height="200dp"
         android:layout_alignParentTop="true"
         android:background="@drawable/img"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="12dp"
         android:contentDescription="@string/rapperImg"
         android:src="@mipmap/ic_launcher"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,39 +25,46 @@
 
     <TextView
         android:id="@+id/rapperName"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:textColor="#E6FFFFFF"
         android:textSize="25sp"
-        android:layout_gravity="center"
         android:textStyle="bold"
+        android:gravity="center"
         app:layout_constraintBottom_toTopOf="@id/realName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.2" />
+         />
 
     <TextView
         android:id="@+id/realName"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:textColor="#E6FFFFFF"
         android:textSize="12sp"
-        android:layout_gravity="center"
         android:textStyle="bold"
+        android:gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/rapperName"
-        app:layout_constraintVertical_bias="0.1" />
+        app:layout_constraintVertical_bias="0.08" />
 
     <TextView
         android:id="@+id/bio"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:paddingStart="25sp"
+        android:paddingEnd="15sp"
         android:textColor="#E6FFFFFF"
         android:textSize="15sp"
-        android:paddingStart="25sp"
+        android:scrollbars="vertical"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
         app:layout_constraintBottom_toTopOf="@+id/backButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.05"
@@ -69,10 +77,10 @@
         android:id="@+id/backButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="8dp"
         android:text="@string/back_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

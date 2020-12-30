@@ -6,5 +6,5 @@ import retrofit2.http.GET
 
 interface RapAPI {
     @get:GET("rappers.json")
-    val getRapResponse: Call<RestRapResponse>
+    val rappers: Call<RestRapResponse>
 }

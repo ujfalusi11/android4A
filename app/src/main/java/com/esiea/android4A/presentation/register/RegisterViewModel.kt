@@ -31,12 +31,12 @@ class RegisterViewModel(
 
     val registerLiveData : MutableLiveData<RegisterStatus> = MutableLiveData()
 
-    fun onClickedRegister(name: String, email: String, password: String, gender: String, nationality: String) {
+    fun onClickedRegister(name: String, email: String, password: String, gender: String) {
         viewModelScope.launch {
 
-            val registerStatus = if (name != "" && email != "" && password != "" && gender != "" && nationality != "") {
+            val registerStatus = if (name != "" && email != "" && password != "" && gender != "" ) {
                 withContext(Dispatchers.IO) {
-                    createUserUseCase.invoke(User(name, email, password, gender, nationality))
+                    createUserUseCase.invoke(User(name, email, password, gender))
                 }
                 RegisterSuccess
             } else {

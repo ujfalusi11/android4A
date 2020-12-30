@@ -54,8 +54,6 @@ class RegisterActivity : AppCompatActivity() {
 
             val password = passwordEditText.text.toString().trim()
 
-            val nationality = nationalityEditText.text.toString().trim()
-
             val gender = if (maleRadioButton.isChecked && !femaleRadioButton.isChecked) {
 
                 "male"
@@ -77,8 +75,6 @@ class RegisterActivity : AppCompatActivity() {
             val emailResult = Validator.Login.email(email)
 
             val passwordResult = Validator.Register.password(password)
-
-            val nationalityResult = Validator.Register.nationality(nationality)
 
             val genderResult = Validator.Register.gender(gender)
 
@@ -103,12 +99,6 @@ class RegisterActivity : AppCompatActivity() {
 
             }
 
-            if (!nationalityResult.success) {
-
-                nationalityEditText.error = getString(nationalityResult.message)
-
-                success = false
-            }
 
             if (!genderResult.success) {
 
@@ -123,7 +113,7 @@ class RegisterActivity : AppCompatActivity() {
                 return@setOnClickListener
             }
 
-            registerViewModel.onClickedRegister(name, email, password, gender!!, nationality)
+            registerViewModel.onClickedRegister(name, email, password, gender!!)
         }
 
         backButton.setOnClickListener {

@@ -1,7 +1,6 @@
 package com.esiea.android4A.data.repository
 
 import com.esiea.android4A.data.local.DatabaseDao
-import com.esiea.android4A.data.local.models.UserLocal
 import com.esiea.android4A.data.local.models.toData
 import com.esiea.android4A.data.local.models.toEntity
 import com.esiea.android4A.domain.entity.User

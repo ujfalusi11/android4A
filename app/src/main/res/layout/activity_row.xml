@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/box"
     android:layout_width="fill_parent"
     android:layout_height="?android:attr/listPreferredItemHeight"
     android:padding="6dip"
-    >
+    android:background="@drawable/border">
 
 
-    <ImageView
+    <com.mikhaellopez.circularimageview.CircularImageView
         android:id="@+id/img"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentBottom="true"
-        android:background="@drawable/img"
         android:src="@mipmap/ic_launcher"
         android:layout_marginEnd="6dip"
         android:contentDescription="@string/rapperImg" />
@@ -22,9 +22,7 @@
         android:id="@+id/secondLine"
         android:layout_width="fill_parent"
         android:layout_height="26dip"
-        android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:layout_toRightOf="@id/img"
         android:ellipsize="marquee"
         android:singleLine="true"
         android:textColor="#E6FFFFFF"
@@ -39,8 +37,6 @@
         android:layout_alignWithParentIfMissing="true"
         android:layout_above="@id/secondLine"
         android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
-        android:layout_toRightOf="@id/img"
         android:gravity="center_vertical"
         android:textColor="#E6FFFFFF"
         android:textSize="20sp"

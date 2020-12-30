@@ -1,11 +1,11 @@
 package com.esiea.android4A.domain.entity
 
 data class Rapper (
-    val realName: String,
-    val rapperName: String,
-    val topAlbum: String,
-    val url: String,
-    val bio: String
+    val realName: String? = null,
+    val rapperName: String? = null,
+    val topAlbum: String? = null,
+    val url: String? = null,
+    val bio: String? = null
 )
 
 

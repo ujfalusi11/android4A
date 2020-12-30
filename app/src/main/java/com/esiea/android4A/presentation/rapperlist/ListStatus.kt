@@ -1,4 +1,4 @@
-package com.esiea.android4A.presentation.countrylist
+package com.esiea.android4A.presentation.rapperlist
 
 import com.esiea.android4A.domain.entity.Rapper
 

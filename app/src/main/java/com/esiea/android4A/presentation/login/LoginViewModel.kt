@@ -24,7 +24,7 @@ class LoginViewModel(
             val user = getUserUseCase.invoke(email,password)
             val loginStatus = if (user != null){
                 LoginSuccess
-            }else  {
+            }else{
                 LoginNotFound
             }
 

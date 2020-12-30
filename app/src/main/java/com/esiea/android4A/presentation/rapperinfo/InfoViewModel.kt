@@ -1,4 +1,4 @@
-package com.esiea.android4A.presentation.countryinfo
+package com.esiea.android4A.presentation.rapperinfo
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -17,12 +17,5 @@ class InfoViewModel : ViewModel(){
         topAlbum.value = rapper.topAlbum
         bio.value = rapper.bio
         img.value = rapper.url
-        /*
-        if(country.description == ""){
-            descriptionText.value = "pas de description disponible pour cette galaxie"
-        }else{
-            descriptionText.value = country.description
-        }*/
-        //image.value = galaxie.url
     }
 }
