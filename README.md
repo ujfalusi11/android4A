@@ -1,4 +1,4 @@
-# Projet Mobile 4A - Liste de Rapper + Biographie
+# Projet Mobile 4A - Liste de Rappers + Biographie
 
 Ce projet est une application android qui permet à un utilisateur de créer un compte, de s'identifier et d'accéder à une liste de rappers 
 afin de lire leur biographie à l'aide d'appels webservice à une API rest crée.
