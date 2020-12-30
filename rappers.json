@@ -1,12 +1,12 @@
 {
-  "total": "2",
-  "rappers":[
+  "total": "30",
+  "rappers": [
       {
       "realName": "Jermaine Lamarr Cole",
       "rapperName": "J. Cole",
       "topAlbum": "Forest Hills Drive 2014",
       "url": "https://i.pinimg.com/originals/c8/d2/be/c8d2bec24f76676092331f37d08b7050.jpg",
-      "bio": "Jermaine Cole est né le 28 janvier 1985 à Francfort-sur-le-Main, en Allemagne. Il est le fils d'un père afro-américain, James Cole, qui a servi dans l'armée américaine4 et d'une mère blanche, Kay Cole5. Cole déménage ensuite à Fayetteville en Caroline du Nord. Il a un frère aîné appelé Zach Cole. Doué pour le basket-ball, il se met au rap à l'âge de douze ans, après que son cousin lui a expliqué les bases de la rime, inspiré par Eminem, Canibus mais surtout Nas9. Il devient rapidement un bon parolier, mais c'est à 17 ans, quand sa mère lui achète un équipement de DJ, que J. Cole se met plus sérieusement au rap et à la production. Cole grandit dans un environnement multiracial. Il étudie à la Terry Sanford High School et décide de prendre des cours de guitare sous le nom de Mark Ebert. En 2003, il obtient son diplôme à la Terry Sanford High School. Pour de plus grandes perspectives de succès musicaux, J. Cole déménage à New York à 18 ans et étudie à l'université de Saint John dans le Queens ; il obtient un diplôme de communication avec mention. L'université n'était en réalité qu'une excuse pour pouvoir quitter la Caroline du Nord afin de se lancer dans le rap."
+      "bio": "Jermaine Cole est né le 28 janvier 1985 à Francfort-sur-le-Main, en Allemagne. Il est le fils d'un père afro-américain, James Cole, qui a servi dans l'armée américaine et d'une mère blanche, Kay Cole. Cole déménage ensuite à Fayetteville en Caroline du Nord. Il a un frère aîné appelé Zach Cole. Doué pour le basket-ball, il se met au rap à l'âge de douze ans, après que son cousin lui a expliqué les bases de la rime, inspiré par Eminem, Canibus mais surtout Nas. Il devient rapidement un bon parolier, mais c'est à 17 ans, quand sa mère lui achète un équipement de DJ, que J. Cole se met plus sérieusement au rap et à la production. Cole grandit dans un environnement multiracial. Il étudie à la Terry Sanford High School et décide de prendre des cours de guitare sous le nom de Mark Ebert. En 2003, il obtient son diplôme à la Terry Sanford High School. Pour de plus grandes perspectives de succès musicaux, J. Cole déménage à New York à 18 ans et étudie à l'université de Saint John dans le Queens ; il obtient un diplôme de communication avec mention. L'université n'était en réalité qu'une excuse pour pouvoir quitter la Caroline du Nord afin de se lancer dans le rap."
     },
     {
       "realName": "Kendrick Lamar Duckworth",
@@ -14,6 +14,202 @@
       "topAlbum": "To Pimp a butterfly",
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pulitzer2018-portraits-kendrick-lamar.jpg/1024px-Pulitzer2018-portraits-kendrick-lamar.jpg",
       "bio": "Kendrick Lamar est un musicien californien né à Compton, dans la banlieue de Los Angeles, le 17 juin 1987. Il débute sa carrière de rappeur avec le nom d'artiste K-Dot en 2003 en publiant une première mixtape. Après quatre autres publications de plus en plus remarquées, il publie en 2011 sous le nom de Kendrick Lamar son premier album, Section.80. Le suivant, good kid, m.A.A.d city, produit et mixé par Dr. Dre, fait partie des albums rap les plus réussis de l'année 2012. De retour en mars 2015 avec To Pimp a Butterfly, Kendrick Lamar atteint le sommet du Billboard, tout comme la compilation de démos qui suit, untitled unmastered (2016). Parmi la quarantaine de récompenses décernées au rappeur figurent sept Grammy Awards. Le chemin reste pavé d'or avec l'album suivant, DAMN. (2017), comprenant parmi ses collaborateurs la chanteuse Rihanna et le groupe U2."
+    },
+    {
+      "realName": "Aubrey Drake Graham",
+      "rapperName": "Drake",
+      "topAlbum": "Scorpion",
+      "url": "https://www.thebackpackerz.com/wp-content/uploads/2018/12/drake-concert-paris-mars.jpg",
+      "bio": "Drake débute pourtant sa carrière dans l'univers de la télévision, en décrochant le rôle principal dans la série « Degrassi: La Nouvelle Génération» en 2001. Il y incarne Jimmy Brooks, un célèbre basketteur, jusqu'à ce que son personnage soit supprimé par les producteurs en 2010. En février 2006, Drake sort sa toute première mixtape, « Room for Improvement ». Elle est suivie par « Comeback Season » la même année. Les deux sont saluées par la critique. Drake sort en 2007 un remix de son hit « Man of the Year » avec le rappeur Lil Wayne, ce qui augmente encore sa popularité.  Au cours de la même année, il dévoile également un single intitulé « Replacement Girl », en featuring avec Trey Songz. Accompagné d'un clip vidéo, diffusé pour la première fois sur BET, le hit devient immédiatement culte pour les inconditionnels de hip hop."
+    },
+    {
+      "realName": "Sergio Giavanni Kitchens",
+      "rapperName": "Gunna",
+      "topAlbum": "Wunna",
+      "url": "https://lastfm.freetls.fastly.net/i/u/770x0/fd23304dc20c00b7db90539c0f9df47d.jpg",
+      "bio": "Gunna est un rappeur de College Park, GA. Connu pour son flow mélodique, il a été présenté à Young Thug par un ami et mentor, Keith Troup, puis signé par le label de Thug Label YSL. Gunna a sorti sa 1 ère mix - tape Drip Season à l’ automne 2016, suivi de près par les projets Drip Season 2 et Drip or Drown en 2017. Sa plus récente mix - tape, Drip Season 3, est sorti début 2018 et est montée à la 55 ème place du Billboard 200. En octobre 2018, Gunna sort Drip Harder, un album collaboratif avec le rappeur Lil Baby.Les 2 continuent de travailler fréquemment ensemble et ont produit des morceaux tels que Sold Out Dates, Money Forever et Oh Okay.La chanson à succès de l’ album, Drip Too Hard, culmine à la 4 ème place du Billboard Hot 100. "
+    },
+    {
+      "realName": "Bashar Barakah Jackson",
+      "rapperName": "Pop Smoke",
+      "topAlbum": "Shoot for the Stars, Aim for the Moon",
+      "url": "https://226611-692233-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/pop-smoke-580x435.jpg",
+      "bio": "Son premier projet, une mixtape intitulée Meet the Woo, sort le 26 juillet 2019, et Pop Smoke est révélé en août 2019 grâce au tube Welcome to the Party. Son single est ensuite remixé par plusieurs artistes dont Nicki Minaj et le rappeur anglais Skepta. Le 23 décembre 2019, il collabore avec le rappeur Travis Scott pour la première fois sur le disque des JACKBOYS. Star montante du rap Américain, Pop Smoke continue son ascension fulgurante avec la sortie de son deuxième projet Meet the Woo 2, le 7 février 2020. Son style de rap est comparé à celui de DMX et de M.O.P., ou aux débuts de 50 Cent et de G-Unit. Dans la nuit du 18 au 19 février 2020, il est assassiné à son domicile, à l’âge de 20 ans. Le mercredi 19 février au matin, il est retrouvé grièvement blessé par balle à Beverly Hills. Transporté à l’hôpital Cedars-Sinai, il succombe à ses blessures."
+    },
+    {
+      "realName": "Melissa Viviane Jefferson",
+      "rapperName": "Lizzo",
+      "topAlbum": "Coz I love you",
+      "url": "https://img.nrj.fr/lTe_Vv_YUNN6XiyenjvVt13e-Io=/315x177/smart/https%3A%2F%2Fimage-api.nrj.fr%2Fmedias%2F2019%2F06%2Flizzo_5d10ec1c77687.jpg",
+      "bio": " Son premier album 'Lizzobangers' sort en 2013, suivi de 'Big Small Grrrl World'  en 2015. Alors qu'elle collabore avec de nombreux artistes, dont Clean Bandit (New Eyes), Florence + the Machine et même Prince pour qui elle enregistre quelques vocalises, Lizzo n'est pas connue en dehors de sa région jusqu'à 2019, même si le 'Time' la repère en 2014 comme l'une des 14 artistes de l'année à surveiller. Inspirée par Aretha Franklin et Missy Elliott, la musique de Lizzo est à son image : généreuse, profonde et voluptueuse. Équilibriste entre musique classique, rap, afro et retro-punk, Lizzo est une diva du rap, avec une voix profonde, vivant à fond ses excentricités et ses excès. Elle chante ses amours, ses joies, ses peines et surtout s'assume telle qu'elle est, c'est-à-dire une femme hors norme."
+    },
+    {
+      "realName": "Curtis James Jackson II",
+      "rapperName": "50 cent",
+      "topAlbum": "Animal Ambition",
+      "url": "https://resize-parismatch.lanmedia.fr/img/var/news/storage/images/paris-match/people/50-cent-va-voter-pour-trump-pour-eviter-une-hausse-de-ses-impots-1708155/27835040-1-fre-FR/50-Cent-va-voter-pour-Trump-pour-eviter-une-hausse-de-ses-impots.jpg",
+      "bio": "Après une enfance difficile et un parcours hors norme, il sort 'Power of the Dollar', un premier album marqué par une agression par balle qui a failli lui coûter la vie en 2000. À la suite d’une longue convalescence, 50 Cent prépare son retour en studio lorsqu’il retient l’attention d’Eminem et de Dr. Dre grâce à sa compilation 'Guess Who 's Back?'. En 2003, leur collaboration se concrétise avec un second album 'Get Rich or Die Tryin' qui précède un troisième opus notable, 'The Massacre'. Après avoir produit son propre jeu vidéo, '50 Cent: Bulletproof'50 Cent tient la tête d’ affiche du film 'Réussir ou mourir', qui s’ inspire de son histoire personnelle.Alors qu’ il poursuit sa carrière musicale avec 'Curtis' en 2007 et 'Before I Self Destruct en 2009, ses aspirations s’ orientent vers le cinéma.Après avoir tourné 'Évasion' aux côtés de Sylvester Stallone, Antoine Fuqua le sollicite pour 'La Rage au ventre'."
+    },
+    {
+      "realName": "Belcalis Almanzar",
+      "rapperName": "Cardi B",
+      "topAlbum": "Privacy",
+      "url": "https://voi.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fprismamedia_people.2F2019.2F08.2F06.2F6cbfc3ec-2a0c-4382-8f9d-03f51a8b9a89.2Ejpeg/380x380/quality/80/cardi-b.jpg",
+      "bio": "Originaire du Bronx, Cardi B multiplie de nombreux emplois avant de se mettre à poster des vidéos sur les réseaux sociaux. Elle gagne en notoriété et se fait remarquer par les producteurs de l’émission de télé-réalité 'Love & Hip Hop '. De 2015 à 2017, elle participe à deux saisons du show. Entre temps, elle réalise un remix de 'Cheap Ass Weave', une chanson de Lady Leshurr. Puis elle enchaîne avec deux mixtapes : 'Gangsta Bitch Music vol .1 et vol .2'. Grâce à sa renommée médiatique, elle signe un contrat avec Atlantic Records et sort un premier single, 'Bodak Yellow'.En 2018, Cardi B collabore avec Bruno Mars pour le remix de 'Finesse'. Son premier album studio, Invasion of Privacy' sort la même année et se classe en tête des meilleures ventes. Elle réalise quelques featurings et duos avec de grands noms de la pop, comme Maroon 5 pour 'Girls Like You', Jennifer Lopez pour 'Dinero' ou encore Rita Ora avec 'Girls'. On la retrouve à l’affiche du film 'Queens' en 2019. Cardi B intègre également le casting de Fast and Furious 9 et sort un second album en 2020, 'Tiger Woods', composé notamment des titres 'Money', 'Please Me' et 'Press'."
+    },
+    {
+      "realName": "Amalaratna Zandile Dlamini",
+      "rapperName": "Doja Cat",
+      "topAlbum": "Hot Pink",
+      "url": "https://www.numero.com/sites/default/files/images/push/thumb-cover-doja-cat-boss-bitch-say-so-hot-pink-amala-cyber-sex-birds-of-prey-margot-robbie-harley-quinn_2.jpg",
+      "bio": "La carrière de Doja Cat dans la musique débute très tôt. La jeune fille commence en postant des reprises de chansons sur la plate-forme musicale SoundCloud. Elle rencontre un certain succès grâce à sa voix et son style très personnel. En 2013, alors que Doja Cat est âgée de 17 ans, elle poste sa première composition originale : le single 'So High'. La chanson est populaire sur SoundCloud, et attire l'attention des producteurs. Doja Cat entre dans la cour des grands en cosignant avec les labels RCA Records et Kemosabe Records.En 2014, Doja Cat a la chance de pouvoir réaliser le clip de sa chanson 'So High'. Le titre est choisi pour être la BO d'un épisode de la série télévisée 'Empire'. Dans la foulée, la jeune femme de 18 ans sort son premier EP, intitulé 'Purrr!', entre rap et R&B. 'No Police' est le deuxième single de l'EP, après 'So High'. La chanteuse continue à poster des reprises et des compositions originales sur SoundCloud et sur YouTube. En 2015, elle signe avec un autre label, OGG."
+    },
+    {
+      "realName": "Rakim Mayers",
+      "rapperName": "A$AP Rocky",
+      "topAlbum": "Long. Live. ASAP",
+      "url": "https://ca-times.brightspotcdn.com/dims4/default/59ba6e6/2147483647/strip/true/crop/3184x4007+0+0/resize/1181x1486!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F93%2Fc9fc509440c7a1ece80785f06308%2Fafp-getty-files-us-sweden-asap-rocky-rap.JPG",
+      "bio": "Peso, l'un de ses premiers singles a été balancé sur le net en Août 2011 puis quelques semaines plus tard le morceau tournera en radio notamment sur Hot 97. Les clips de Peso et Purple Swag ont généré un buzz ce qui a abouti pour ASAP Rocky à la signature de deux contrats d'enregistrement de 3 millions de dollars 'En octobre dernier le jeune rappeur a sorti la mixtape LiveLoveA$AP, qui a reçu de nombreuses critiques positives.Avec Kendrick Lamar, il est l 'un des artistes à avoir été convié pour la tournée de Drake 'Club Paradise Tour'. Son premier album solo s'appellera LongLiveA$AP et devrait sortir le 4 juillet 2012. "
+    },
+    {
+      "realName": "Azealia Banks",
+      "rapperName": "Azealia Banks",
+      "topAlbum": "Broke with expensive taste",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Azealia_Banks_2012_NME_Awards_cropped.jpg",
+      "bio": "Dès l’âge de seize ans, elle commence à écrire ses premières chansons de R&B en espérant pouvoir proposer son talent d’auteur à des artistes. Elle partage ses premières créations sur le réseau social Myspace, qui lui permet de se faire remarquer par le DJ Diplo. Ce dernier lui propose de collaborer sur deux premières chansons. Malheureusement pour elle, son premier contrat avec une maison de disques se termine mal et le contrat est rompu. Son échec la mène à une forte dépression et la jeune femme commence à se droguer. En 2011, elle décide de se reprendre en main en vivant quelques mois à Montréal. De retour à New York, elle renaît de ses cendres grâce à la publication de vidéos sur YouTube. En 2011, elle publie 212, son premier single sur Internet, qui reçoit un très bon accueil. L’année suivante, elle décide d’enregistrer son premier EP, 1991, puis Fantasea, sa première mixtape. Le succès est au rendez-vous, la jeune femme voit sa carrière décoller. En 2014, elle sort son premier album, Broke with Expensive Taste, qui reçoit un excellent accueil critique."
+    },
+    {
+      "realName": "Chancelor Bennett",
+      "rapperName": "Chance The Rapper",
+      "topAlbum": "Acid Rap",
+      "url": "https://townsquare.media/site/812/files/2019/08/Chance-The-Rapper-Lowe.jpg?w=980&q=75",
+      "bio": "Chance the Rapper est l'une des plus grandes vedettes de ces dernières années, atteignant la renommée et le succès d'une manière peu orthodoxe - en évitant les grands labels qui veulent le signer. Férocement indépendant et articulé, il a trouvé un moyen de plaire à la fois aux fans de routards et à un public beaucoup plus large grâce à des collaborations avisées avec Lil Wayne et Kanye West. Il est également politiquement actif, et un récent acte de philanthropie, qui lui a permis de donner 1 million de dollars aux écoles publiques de Chicago, a même eu une compatriote de Chicago Michelle Obama qui l'a félicité: «Merci de redonner à la communauté de Chicago, qui nous a tant donné . Vous êtes un exemple du pouvoir de l'éducation artistique."
+    },
+    {
+      "realName": "Kanye Omari West",
+      "rapperName": "Kanye West",
+      "topAlbum": "The College Dropout",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg",
+      "bio": "Producteur et rappeur, Kanye West est l’un des piliers du hip-hop américain de ce 21eme siècle. En produisant, entre autres, Jay-Z, Ludacris, Alicia Keys, Mary J.Blige ou encore Janet Jackson, Kanye West s’est fait une place de choix dans ce monde tant convoité. Après avoir misé sur d’ autres, le rappeur s’ est notamment lancé en solo.«Stronger», «American Boy» et« Runaway» font partis de ses plus grand succès.Marié avec la star de la télé - réalité américaine, Kim Kardashian, Kanye West s’ est également lancé dans la mode avec succès et a sorti en 2016 un nouvel album, «The Life of Pablo».Bon élève, il se passionne très tôt pour le hip - hop.Persuadé que ce milieu est sans issue, sa mère le pousse à entamer des études supérieures.Pourtant très proche de ses parents, Kanye West persévère et se lance dans la musique.En 1998, le jeune homme réalise un album pour Jermaine Dupri puis l’ opus« The Blueprint» de Jay Z.Fort de son succès en tant que producteur, l’ artiste hésite pourtant à se lancer en solo."
+    },
+    {
+      "realName": "Lesane Parish Crooks",
+      "rapperName": "2Pac",
+      "topAlbum": "Me Against the World",
+      "url": "https://hiphopcorner.fr/wp-content/uploads/frontend/2018/11/image-tupac-amaru-shakur-blue.jpg",
+      "bio": "Aussi connu sous ses noms de scène 2Pac et Makaveli, Tupac Shakur est un rappeur, producteur et acteur américain né le 16 juin 1971 à New York. Figure emblématique du rap américain des années 1980 et 1990, Tupac Shakur mène de front une carrière musicale et cinématographique. Après une première apparition sur le grand écran en 1991 pour incarner son propre personnage dans 'Nothing but Trouble', Tupac Shakur obtient son véritable premier rôle en 1992 dans 'Juice', puis il tourne les années suivantes dans 'Above the Rim' (1994), ou encore 'Flics sans scrupules' en 1997. Tupac est également à l’origine de la bande originale de plusieurs films dans lequels il joue. Sa vie hors du commun, rythmée par des ennuis judiciaires et des guerres de gangs entre deux albums vendus à des millions d’exemplaires, fera par ailleurs l’objet de nombreux documentaires diffusés à la télévision. Assassiné le 13 septembre 1996 à Las Vegas, Tupac Shakur demeure encore à ce jour l’une des personnalités les plus influentes aux États-Unis."
+    },
+    {
+      "realName": "Jordan Terrell Carter",
+      "rapperName": "Playboi Carti",
+      "topAlbum": "Die Lit",
+      "url": "https://www.trackmusik.fr/images/artists/Playboi_Carti_Page_Musique_Trackmusik.jpg",
+      "bio": "Carter naît et grandit à Atlanta. Il sort diplômé du lycée North Springs de Sandy Springs. Il commence sa carrière sous le nom de Sir Cartier avant d'adopter le nom de Playboi Carti. En tant que Sir Cartier, il dévoile son premier projet en 2012, une mixtape intitulée Young Misfit. En 2016, il est invité sur la mixtape Cozy Tapes Vol .1: Friends du A$AP Mob.En septembre 2016, il signe sur le label Interscope Records.Le 14 avril 2017 | en musique, Playboi Carti publie son deuxième projet, une mixtape éponyme contenant des collaborations avec Lil Uzi Vert, Leven Kali et A$AP Rocky.Magnolia, titre majeur de la mixtape, atteint la place du Billboard Hot 100. Il est ensuite nommé dans la XXL Freshman Class 2017. Playboi Carti est arrêté le 6 juillet 2017 pour violence domestique sur sa petite amie à l 'aéroport international de Los Angeles. Il est libéré sous caution le lendemain.En 2017, il collabore avec A$AP Rocky sur la chanson Summer Bummer de Lana Del Rey pour son album Lust for Life.En 2018, son premier album Die Lit sort le vendredi 11 Mai."
+    },
+    {
+      "realName": "Scott Mescudi",
+      "rapperName": "Kid Cudi",
+      "topAlbum": "Man on the Moon: The End of Day",
+      "url": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/10/b6597a1f-2a0c-4c28-8c05-819f3f5744b5/1200x680_kidcudi.jpg",
+      "bio": "Scott Mescudi est né le 30 janvier 1984 à Cleveland, dans l'Ohio, d'un père mexicain et amérindien et d'une mère afro-américaine. Il grandit à Shaker Heights entouré de deux frères, Domingo et Dean, et d'une sœur, Maisha.Alors qu'il n'a que 11 ans, son père meurt d'un cancer, une perte qui aura un impact majeur sur sa musique. Pour survivre à cette tragédie, Kid Cudi se replie sur lui-même et se crée un monde  imaginaire pour s'évader. Le rap est pour lui un exutoire de sa peine.A 15 ans, le jeune garçon enregistre un premier son sur une machine à karaoké : un freestyle sur le titre « It's Yourz » de Wu-Tang Clan.A 20 ans, il décide de se lancer à fond dans sa passion et de devenir rappeur. Il s'en va vivre à Brooklyn, un quartier de New York, pour s'imprégner de la culture hip-hop."
+    },
+    {
+      "realName": "Marshall Bruce Mathers III",
+      "rapperName": "Eminem",
+      "topAlbum": "The Marshall Mathers LP",
+      "url": "https://img.20mn.fr/EFUKPGD2SW6agcGebksn7w/960x614_rappeur-eminem.jpg",
+      "bio": "Eminem se forge une carapace et commence à se passionner pour le rap à l’âge de 13 ans.Très vite, il tente de s’introduire dans ce milieu musical mais il fait face à l’hostilité des autres rappeurs du fait de sa couleur de peau. Il ne se décourage pas pour autant et est finalement repéré par le célèbre rappeur Dr. Dre qui le fait signer sous son label. En 1999, il sort son premier album intitulé The Slim Shady LP et le succès est immédiat. Depuis, tous ses albums s’arrachent et il perce même au cinéma, en tant qu’acteur et réalisateur du film 8 Mile qui raconte son adolescence perturbée à Détroit. Ce film suscite l’adhésion du public et de la critique et sa bande originale lui vaut même un Oscar. Mais entre provocations, problèmes de drogues et soupçons d’homophobie, Eminem reste un artiste sulfureux et souvent décrié."
+    },
+    {
+      "realName": "Jonathan Lyndale Kirk",
+      "rapperName": "DaBaby",
+      "topAlbum": "Blame it on Baby",
+      "url": "https://www.booska-p.com/up/images/news/ED001_DABABY_WEB_1.jpg",
+      "bio": "Né à Cleveland, Ohio en 1991, le rappeur américain Jonathan Kirk décide de quitter une vie de petite délinquance pour se consacrer à une carrière musicale sans expérience préalable, faisant ses premiers pas sous l'alias Baby Jesus avant de se rebaptiser DaBaby et de lancer un assaut constant sur le marché rap depuis son nouveau fief de Charlotte, Caroline du Nord. Enchaînant singles et mixtapes parmi lesquelles cinq volumes de la série Baby Talk ou Blank Blank (2018), le MC ne tarde pas à se faire un nom et décroche enfin une signature chez Interscope pour qui il livre en 2019 deux albums d'affilée, Baby on Baby et KIRK, chaque titre du second faisant son entrée dans le Billboard 100 US, confirmant la notoriété du rappeur sur la scène trap sudiste. "
+    },
+    {
+      "realName": "William Nzobazola",
+      "rapperName": "Ninho",
+      "topAlbum": "Destin",
+      "url": "https://yt3.ggpht.com/ytc/AAUvwnhaDKV5AgvI8gW1Ez314ZiXybmjJL5GvUdmdtNOLA=s900-c-k-c0x00ffffff-no-rj",
+      "bio": "Ayant commencé à rapper à l’âge de douze ans, Ninho sort 4 mix-tapes entre 2014 et 2016 : Ils sont pas au courant, ENATTENDANTISPAC2, I.S.P.A.C. 2 et M.I.L.S. Son 1er album studio Comme prévu, sorti le 8 septembre 2017, est certifié triple platine en France avec plus de 300 000 ventes en 6 mois. Un opus porté par de grands succès comme De l’autre côté et Mamacita, 2 singles certifiés diamant. Elle m’a eu et Rose sont certifiés singles de platine et les 11 autres titres sont singles d’or, signifiant donc que tous les titres de l’album ont reçus une certification.Son 2ème album studio, intitulé Destin, est sorti le 22 mars 2019 et est certifié disque d’or en France en seulement une semaine.Il est signé sur le label Mal Luné Music depuis 2015 et sur le label Rec. 118 (de la major Warner Music) depuis 2016."
+    },
+    {
+      "realName": "Elie Yaffa",
+      "rapperName": "Booba",
+      "topAlbum": "Ouest Side",
+      "url": "https://la1ere.francetvinfo.fr/image/nikwmxQnFbidUCIhqhwpYIUQ_po/1200x1200/outremer/2019/10/04/5d967161ec052_booba_1-1151421.jpg",
+      "bio": "Il est le rappeur qui cristallise la haine : celle des jaloux qui lui reprochent d'avoir en quelque sorte inventé le gangsta rap à la française et celle des censeurs et bien-pensants de toutes sortes qui voient en lui un cauchemar incarné. Booba est pourtant un artiste au style unique, qui a marqué le rap français de son empreinte indélébile. Booba a le flow le plus particulier du rap français, donc le plus inoubliable. Comme un torrent pierreux, mots et métaphores coulent de sa gorge avec la force d'un tsunami sur l'album à succès Ouest Side en 2006. La fluidité est remplacée par une aridité abrasive ; pourtant ce débit qui peut rebuter l'auditeur, même averti, réussit à se révéler musical. L'ancien Lunatic, imbattable dans sa catégorie, publie 0.9 en 2008 et le musclé Lunatic en 2010. De plus en plus international musicalement, Booba sort Futur en 2012 avec les présences de Rick Ross et 2 Chainz. Booba reste le roi du rap hardcore français avec D.U.C. (2015). Comme pour signifier cette domination à ses opposants, il décide de publier son successeur Nero Nemesis la même année, dont la sortie coïncide avec celle de Le Rohff Game de son rival Rohff. Son neuvième album Trône, sorti deux ans après (2017), est certifié disque d'or à sa sortie."
+    },
+    {
+      "realName": "Vanessa Lesnicki",
+      "rapperName": "SHAY",
+      "topAlbum": "Antidote",
+      "url": "https://mcetv.fr/wp-content/uploads/2019/05/Shay-TOP-5-des-meilleures-chansons-de-son-nouvel-album-22Antidote22.jpg",
+      "bio": "Shay est une artiste belge originaire de Bruxelles. Elle est née Vanessa Lesnicki, le 16 août 1992, d’un père informaticien belge d’origine polonaise et d’une mère fiscaliste belge d’origine congolaise. La rappeuse est la sœur du beatmaker Le Motif, son grand frère Olivier Lesnicki, et la nièce du rappeur YoussouphaRoche de Booba qui la découvre sur une reprise du titre BMF de Rick Ross, elle collabore avec le rappeur sur le morceau Cruella en 2011, puis rejoint son label, le 92i. Le track apparaît sur le projet de B2O intitulé Autopsie Vol. 4, puis le retrouve sur le scène du POPB à Bercy (désormais appelé AccorHotels Arena) pour le 1er show du Duc dans cette enceinte, toujours en 2011. Le grand public découvre véritablement Shay à l’été 2016 avec le titre PMW. Son 1er album, Jolie garce, est sorti le 2 décembre 2016, après quoi elle quitte le 92i. Ce 1er effort sera certifié Disque d’or. Shay quittera le 92i après l’exploitation de ce 1er opus. Le 10 mai 2019 sort son 2nd album, Antidote."
+    },
+    {
+      "realName": "Aurélien Cotentin",
+      "rapperName": "Orelsan",
+      "topAlbum": "La fête est finie",
+      "url": "https://intrld.com/wp-content/uploads/2019/07/orelsan.png",
+      "bio": "Son premier album, Perdu d'avance, sort le 16 février 2009. En mars 2009, une polémique éclate autour de son titre Sale pute (un morceau ne figurant pas sur l'album et uniquement disponible sous forme de clip sur Internet) lorsque la secrétaire d'État Valérie Létard y dénonce une incitation à la violence envers les femmes, ce qui ralentit les ventes du disque. L'album sera néanmoins nommé au Prix Constantin de 2009. Son deuxième album Le Chant des sirènes est publié le 26 septembre 2011, et est certifié disque de platine. Lors de la 27e cérémonie des Victoires de la musique le 3 mars 2012, il reçoit la « Victoire du meilleur album de musiques urbaines de l'année » et la « Victoire de la révélation au public de l'année »."
+    },
+    {
+      "realName": "Kery James",
+      "rapperName": "Kary James",
+      "topAlbum": "Mouhammad Alix",
+      "url": "https://keryjames.fr/wp-content/uploads/2019/09/mockup-kj-facebook-1.jpg",
+      "bio": "La musique, et surtout le hip-hop, deviennent assez rapidement importants pour lui. A 11 ans, il présente son premier texte, sur le racisme, au rappeur Manu Key, qui l'encourage à continuer. Intéressé par l'écriture et la danse, il se fait remarqué par MC Solaar lors d'un atelier d'écriture organisé à la MJC d'Orly. La même année, MC Solaar le fait enregistrer sur son premier album, « Qui sème le vent récolte le tempo », sorti en 1991, sous le nom de Kery B (morceau « Ragga jam »). Vers l'âge de 13 ans, il fonde avec trois de ses amis (le rappeur Harry et les danseurs Teddy et Salim, devenus respectivement Jessy Money, Teddy Corona et Salim du 9.4 au sein du collectif Mafia K'1 Fry) le groupe Ideal Junior, plus connu sous le nom d'Ideal J, appelé ainsi en référence à leur jeune âge. Dès 1991 la formation monte sur scène lors de petits festivals organisés par la mairie. Le groupe sort en 1992 le maxi « La vie est brutale ». La même année, DJ Medhi rejoint le groupe; c'est lui qui compose désormais tous les instrumentaux."
+    },
+    {
+      "realName": "Michael Ebenazer Kwadjo Omari Owuo Jr",
+      "rapperName": "Stormzy",
+      "topAlbum": "Heavy Is The Head",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Stormzy_-_Openair_Frauenfeld_2019_03.jpg/1200px-Stormzy_-_Openair_Frauenfeld_2019_03.jpg",
+      "bio": "Stormzy est originaire de Thornton Heath, à Londres, et est d'origine ghanéenne. Il a commencé à rapper à l'âge de 11 ans et se confrontait à des rappeurs plus âgés dans son club de jeunes local. Avant de se consacrer entièrement à sa musique, il a fait un stage à Leamington Spa et a travaillé deux ans dans une raffinerie de pétrole à Southampton. Stormzy se décrit comme un enfant de la crasse' influencé par des chanteurs comme Wiley et Skepta. Il cite également des chanteurs de RnB comme Frank Ocean et Lauryn Hill comme étant des influences sur sa musique."
+    },
+    {
+      "realName": "Dominique Preira",
+      "rapperName": "Dip Doundou Guiss",
+      "topAlbum": "LNN",
+      "url": "https://actuhiphopdjolof.com/wp-content/uploads/2017/10/dip.jpg",
+      "bio": "DIP est une abréviation de son prénom Dominique mais fait allusion aussi au mot anglais DEEP « profond », en référence à ses textes qui quoique très ancrés dans la rue ont toujours ce côté philosophique qui nous ouvre une fenêtre sur sa vision de la vie. Dès son plus jeune âge DIP a commencé à s’intéresser à la musique, particulièrement au rap, en s’inspirant de références locales telles que Positive Black Soul, Daara J mais aussi internationales comme DMX, T.I etc. En 2009 il commence à écrire ses propres textes et faire des freestyles. Mais c’est en 2011 qu’il choisit de faire carrière dans le rap et fonde le groupe Doundou Guiss (Vivre pour Apprendre) avec son ami Sawzi la même année. Cependant, après quelques mois Sawzi décida d’arrêter le rap, ce qui poussa DIP à suivre une carrière solo.En 2012 il rejoint le label REP’TYLE MUSIC où il sort son premier single « Hors Norme » suivi de « Yakarouma Ci Ken » qui fait rapidement le ‘buzz sur les réseaux sociaux et radios, ce qui lui permet de se faire connaître du grand public. Il est aujourd’hui le rappeur sénégalais le plus populaire. Il enregistre les meilleures vues sur Youtube (+ de 11.041.857 vues), a enregistré un nombre de vente records avec la sortie de son premier album TLK plus de 7 000 exemplaires en une semaine. Il est également le rappeur Sénégal le plus suivi sur Instagram (+ 308 000 abonnés)."
+    },
+    {
+      "realName": "Onika Maraj",
+      "rapperName": "Nicki Minaj",
+      "topAlbum": "Pink Friday",
+      "url": "https://img.huffingtonpost.com/asset/5f76e7c0220000950f82be3e.jpeg?cache=0AJE7UGs5Q&ops=scalefit_630_noupscale",
+      "bio": "Nouvelle étoile de la scène rap et r'n'b américaine, Nicki Minaj jouit de plus de l'appui de nombreuses figures de la jeune génération, comme Flo Rida , Britney Spears ou encore David Guetta. La jeune femme se classe déjà comme étant l'une des voix incontournables et représentatives de sa génération, notamment avec son titre 'Starship'. Avant de s’essayer à la composition, Nicki Minaj commence par interpréter des classiques du répertoire lors des petites fêtes locales. Elle diffuse alors ses prestations sur son compte My Space dans l'espoir d'attirer l'attention d'un producteur.Et les résultats ne se font pas attendre... Les téléchargements incessants ainsi que les visionnements fréquents classent Nicki Minaj parmi les artistes amateurs les plus regardés sur MySpace. Cet engouement attire finalement l 'attention de Fendi, le dirigeant du label Dirty Money. Séduit par la voix hors norme et la personnalité de Nicki Minaj, le dénicheur de talents lui offre un contrat. La jeune femme débute par des apparitions très remarquées sur le disque « The come up » de Young Money. Avec son talent de rappeuse hors pair, Nicki Minaj attire l 'attention de pointures du milieu comme Lil Wayne, avec qui elle collabore à plusieurs reprises. « Playtime is Over », première mixtape de la chanteuse sort finalement en 2007. Avec son style déjà très affirmé, elle apparait sur la pochette en poupée Barbie."
+    },
+    {
+      "realName": "Melissa Arnette Elliott",
+      "rapperName": "Missy Elliott",
+      "topAlbum": "Supa Dupa Fly",
+      "url": "https://images.sk-static.com/images/media/img/col3/20200420-142036-676540.jpg",
+      "bio": "Du fin fond de sa Virginie natale, à Portsmouth, la petite Melissa Arnette Elliott avait peu de chance de se faire remarquer. D'autant plus qu'elle passait son temps enfermée dans sa chambre pour éviter les disputes de ses parents. Son père battait sa mère. Comme beaucoup de fillettes, elle se donne en spectacle devant ses poupées, chantant et dansant sur les titres phares de ses idoles Michael Jackson ou Diana Ross .Ses premiers groupes, Fay Z et R'n'B Sista, ne resteront pas dans les mémoires, même si elle obtient une audition chez Elektra. Missy Elliott rencontre Tim Mosley, alias Timbaland , lui aussi originaire de Virginie, et le duo se lance dans la production et l'écriture pour Jodeci et la défunte Aaliyah. Le succès de son premier album paru en 1997, 'Supa Dupa Fly' (chez Elektra), fait l'effet d'une bombe. Tout le gratin de la pop music la courtise : elle coproduit les albums de Whitney Houston , remixe Janet Jackson , travaille avec lesDestiny's Child."
+    },
+    {
+      "realName": "Dominique Jones",
+      "rapperName": "Lil Baby",
+      "topAlbum": "My turn",
+      "url": "https://images.app.goo.gl/wrCick57PRwFb6NCA",
+      "bio": "l’un des plus récents rappeurs de la scène rap d’Atlanta. Depuis qu’il a grandi avec Young Thug, et après ses nombreuses arrestations, Baby a travaillé dur pour devenir un rappeur établi et son parcours pourrait être raconté à partir des titres de sa discographie. Elevé par sa mère célibataire, Baby est né dans la pauvreté avec ses 2 sœurs et son frère.Il a vécu avec des coupons alimentaires et des aides sociales.Ses années d’ adolescence ont également fait l’ objet de nombreuses arrestations.En janvier 2012, il a été arrêté et inculpé de cambriolage.Plus tard cette année - là, en août, il tenta d’ abandonner ses études pour devenir un trafiquant de drogue à plein temps, mais fut à nouveau arrêté pour possession de drogues dangereuses .2 autres arrestations en possession de marijuana et une autre accusation de vol l’ ont mis en prison pour 2 ans.C’ est pendant son séjour en prison que Pee et Coach K de Quality Control Music ont encouragé Baby à poursuivre une carrière dans le rap."
+    },
+    {
+      "realName": "Rodrick Moore, Jr.",
+      "rapperName": "Roddy Rich",
+      "topAlbum": "Please Excuse Me",
+      "url": "https://www.udiscovermusic.com/wp-content/uploads/2020/02/Lil-Baby-Black-Vest.jpg",
+      "bio": "C'est un rappeur, chanteur, auteur et producteur natif de Compton, à Los Angeles, en Californie. Le 22 novembre 2017, Roddy sortait sa 1 ère mix - tape, Feed Tha Streets.Un an plus tard, en novembre 2018, il publiait sa 2n de tape, Feed Tha Streets II, sur laquelle figurait ses 2 gros singles: Die Young et Every Season. Au fil du temps, Roddy a enchaîné les featurings avec ses collègues Meek Mill, sur Splash Warning en novembre 2018, et avec feu Nipsey Hussle sur Racks In The Middle, en février 2019. Il a aussi posé avec d’ autres artistes, comme Post Malone sur le remix de Wow en mars 2019, et Rich The Kid, sur Go Up, en juillet 2019. Son featuring Racks In The Middle sera le 1 er gros tube de Roddy.Roddy est actuellement signé sur Bird Vision Entertainment."
+    },
+    {
+      "realName": "Jay Z",
+      "rapperName": "Jay Z",
+      "topAlbum": "Please Excuse Me",
+      "url": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed554fab14861000600baf1%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D53%26cropX2%3D739%26cropY1%3D114%26cropY2%3D800",
+      "bio": "Shawn Carter est né le 4 décembre 1969 dans l'arrondissement de Brooklyn à New York. Il grandit à Marcy Houses, dans le quartier de Bedford-Stuyvesant. Lui et ses trois frères et sœurs sont élevés par leur mère, Gloria Carter, leur père ayant déserté le domicile familial. Il explique selon ses termes qu'il aurait tiré dans l'épaule de son frère en 1982 à l'âge de 12 ans pour lui avoir volé ses bijoux. Carter étudie à la Eli Whitney High School de Brooklyn, en même temps que le futur rappeur AZ, jusqu'à ce que l'établissement ferme ses portes. Après ses études à la George Westinghouse Career and Technical Education High School au Downtown Brooklyn, avec ses copains rappeurs The Notorious B.I.G. et Busta Rhymes, il étudie à la Trenton Central High School de Trenton, dans le New Jersey, mais ne parvient pas à obtenir de diplôme. Dans ses chansons, il révèle s'être impliqué dans la vente de cocaïne. Il révèle également s'être fait tirer dessus à trois reprises dans sa vie"
     }
   ]
 }
